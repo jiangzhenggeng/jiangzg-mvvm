@@ -1,0 +1,6 @@
+/build/
+/config/
+/src/vuex
+/dist/
+/*.js
+/test/unit/coverage/
